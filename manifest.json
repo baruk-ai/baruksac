@@ -1,8 +1,8 @@
 {
-  "product": "Baruk SAC Analytics",
-  "version": "3.0.1",
-  "packageUrl": "https://github.com/baruk-ai/baruksac/releases/download/baruk-sac-v3.0.1/Baruk.SAC.exe",
-  "releaseDate": "2026-04-16",
+  "product": "bTalk Platform",
+  "version": "4.0.0",
+  "packageUrl": "https://github.com/baruk-ai/baruksac/releases/download/baruk-talk-v4.0.0/bTalk.Platform.exe",
+  "releaseDate": "2026-06-16",
   "checksum": "",
-  "releaseNotes": "Nova versão da plataforma Baruk SAC Analytics"
+  "releaseNotes": "Nova versão da plataforma Baruk Talk"
 }
