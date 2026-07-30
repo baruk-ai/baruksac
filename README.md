@@ -1,4 +1,4 @@
-# 🚀 Baruk SAC
+# 🚀 Baruk Talk
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ## 🎯 O Que Fazemos
 
-O **Baruk SAC** é uma plataforma de automação cognitiva que transforma conversas de atendimento ao cliente (áudio e texto) em dados estruturados, insights acionáveis e automações inteligentes, utilizando Inteligência Artificial para transcrever, analisar e classificar atendimentos em tempo real.
+O **Baruk Talk** é uma plataforma de automação cognitiva que transforma conversas de atendimento ao cliente (áudio e texto) em dados estruturados, insights acionáveis e automações inteligentes, utilizando Inteligência Artificial para transcrever, analisar e classificar atendimentos em tempo real.
 
 ### ✨ Principais Benefícios
 
